@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -680,13 +680,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -770,8 +770,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-orchestra-poster-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-orchestra-poster-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -780,9 +780,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-full-lilo-and-stitch-banner-2000x516-800x206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-full-lilo-and-stitch-banner-2000x516.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
