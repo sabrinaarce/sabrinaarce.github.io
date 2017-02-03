@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "About Me.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -132,6 +132,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box5-1p",
           "_params": {
             "imageSize": "34",
@@ -178,15 +186,7 @@
           },
           "title": "Sabrina Arce",
           "text": "<b>I am a 16 year old high school student,</b>&nbsp;<b>attending Miami Arts Studio 6-12. </b><b>I am enrolled in the tech production magnet.</b>&nbsp;<b>I am a very creative &nbsp;and detail-oriented student.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"About Me.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"About Me.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features4",
@@ -2532,7 +2532,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1s",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
