@@ -482,6 +482,10 @@ h6,
 #msg-box5-1p B {
   color: #000000;
 }
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
+  text-align: center;
+}
 #features7-n .card-subtitle {
   color: #bcbcbc;
 }
@@ -491,6 +495,10 @@ h6,
 }
 #features7-n P {
   text-align: left;
+}
+#header3-21 .mbr-section-title,
+#header3-21 .mbr-section-subtitle {
+  text-align: center;
 }
 #content2-p P {
   color: #000000;
