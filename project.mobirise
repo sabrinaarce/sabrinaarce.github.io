@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 74,
+    "uniqCompNum": 79,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Sabrina Arce</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Me.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"MS Word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Discuss It.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sabrinaarce.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss It Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MS Powerpoint.html\">MS Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MS Excel.html\">MS Excel</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sabrinaarce.github.io/documents/certification.jpg\" target=\"_blank\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshopcertification.html\">Adobe Photoshop (TBA)</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Wilson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sandra Joseph</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Marilyn Dorrego</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Me.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Premiere.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"MS Word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MS Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Discuss It.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss It</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sabrinaarce.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss It Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MS Powerpoint.html\">MS Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MS Excel.html\">MS Excel</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sabrinaarce.github.io/documents/certification.jpg\" target=\"_blank\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshopcertification.html\">Adobe Photoshop (TBA)</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Balsera</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Wilson</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sandra Joseph</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Marilyn Dorrego</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -551,21 +551,22 @@
           "meta": "By Sabrina Arce posted January 2017"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-complete-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-complete-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/competition-piece-official-4-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/competition-piece-official-4-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -574,8 +575,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-final-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-final-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clock-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clock-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -584,8 +585,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rgb-legit-finished-butterfly-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rgb-legit-finished-butterfly-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blue-print-drawing-complete-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blue-print-drawing-complete-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -594,8 +595,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-logo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-orchestra-poster-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-orchestra-poster-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -604,8 +605,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-official-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-official-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-complete-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-complete-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -614,8 +615,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/competition-piece-official-4-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/competition-piece-official-4-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rgb-legit-finished-butterfly-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rgb-legit-finished-butterfly-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -624,8 +625,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/clock-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/clock-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-final-1-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-final-1-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -634,23 +635,73 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/blue-print-drawing-complete-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/blue-print-drawing-complete-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-logo-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-logo-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery1-17",
+          "_anchor": "gallery3-25",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-1y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/fixed-henna-2000x1000.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000"
+          },
+          "text1": "<p><strong><br></strong>&nbsp;<strong>Address</strong><br>13841 SW 14 ST&nbsp;<br>Miami, FL 33184<br><br><br>\n<strong>Contacts</strong><br>\nEmail: ssabrina.1243.arce@gmail.com<br>\nPhone: (786) 252-3886<br><br></p>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sarce@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
@@ -770,21 +821,22 @@
           "meta": "By Sabrina Arce posted January 2017"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-orchestra-poster-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-orchestra-poster-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-rough-draft-marquee-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-rough-draft-marquee-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -793,10 +845,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-full-lilo-and-stitch-banner-2000x516-800x206.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-full-lilo-and-stitch-banner-2000x516.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
               },
               {
                 "tags": "Creative",
@@ -853,17 +904,67 @@
                 "caption": "Type caption here"
               }
             ],
-            "spacing": 0,
+            "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery1-18",
+          "_anchor": "gallery3-26",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-1y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/fixed-henna-2000x1000.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000"
+          },
+          "text1": "<p><strong><br></strong>&nbsp;<strong>Address</strong><br>13841 SW 14 ST&nbsp;<br>Miami, FL 33184<br><br><br>\n<strong>Contacts</strong><br>\nEmail: ssabrina.1243.arce@gmail.com<br>\nPhone: (786) 252-3886<br><br></p>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "sarce@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
