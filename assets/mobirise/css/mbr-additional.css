@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -478,19 +478,17 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-27 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 100px;
-}
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
   text-align: center;
 }
-#header6-2x .mbr-section-title {
-  color: #28262b;
+#header4-2x .mbr-section-title {
+  font-size: 100px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
-#header6-2x .mbr-section-text {
-  color: #565656;
+#header3-2y .mbr-section-title,
+#header3-2y .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-29 .mbr-section-title,
 #header3-29 .mbr-section-subtitle {
@@ -502,6 +500,13 @@ h6,
 #header3-2b .mbr-section-title,
 #header3-2b .mbr-section-subtitle {
   text-align: center;
+}
+#social-buttons4-2z .mbr-section-title,
+#social-buttons4-2z .btn-social {
+  color: #fff;
+}
+#social-buttons4-2z .mbr-section-title {
+  color: #ffffff;
 }
 
 #ext_menu-4 .hide-buttons .nav-btn {
