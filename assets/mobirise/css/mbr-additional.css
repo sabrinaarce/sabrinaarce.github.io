@@ -486,19 +486,11 @@ h6,
   font-size: 100px;
   font-family: 'Roboto Condensed', sans-serif;
 }
-#header3-2y .mbr-section-title,
-#header3-2y .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-29 .mbr-section-title,
-#header3-29 .mbr-section-subtitle {
-  text-align: center;
-}
 #content2-p P {
   color: #000000;
 }
-#header3-2b .mbr-section-title,
-#header3-2b .mbr-section-subtitle {
+#header3-36 .mbr-section-title,
+#header3-36 .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-2z .mbr-section-title,
@@ -507,6 +499,10 @@ h6,
 }
 #social-buttons4-2z .mbr-section-title {
   color: #ffffff;
+}
+#header3-32 .mbr-section-title,
+#header3-32 .mbr-section-subtitle {
+  text-align: center;
 }
 
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -584,6 +580,21 @@ h6,
 #header3-2o .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3f .mbr-section-title,
+#header3-3f .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-3b .mbr-section-title,
+#social-buttons4-3b .btn-social {
+  color: #fff;
+}
+#social-buttons4-3b .mbr-section-title {
+  color: #ffffff;
+}
+#header3-3c .mbr-section-title,
+#header3-3c .mbr-section-subtitle {
+  text-align: center;
+}
 
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
@@ -652,8 +663,19 @@ h6,
 #header3-19 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-2u .mbr-section-title,
-#header3-2u .mbr-section-subtitle {
+#header3-35 .mbr-section-title,
+#header3-35 .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-38 .mbr-section-title,
+#social-buttons4-38 .btn-social {
+  color: #fff;
+}
+#social-buttons4-38 .mbr-section-title {
+  color: #ffffff;
+}
+#header3-3e .mbr-section-title,
+#header3-3e .mbr-section-subtitle {
   text-align: center;
 }
 
@@ -1132,16 +1154,12 @@ h6,
 #header3-2h .mbr-section-subtitle {
   text-align: center;
 }
-#header3-2i .mbr-section-title,
-#header3-2i .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-34 .mbr-section-title,
+#msg-box8-34 p {
+  color: #fff;
 }
-#header2-31 .mbr-section-text {
-  color: #000000;
+#msg-box8-34 .lead P {
   text-align: left;
-}
-#header2-31 .mbr-section-title {
-  color: #000000;
 }
 #header3-2e .mbr-section-title,
 #header3-2e .mbr-section-subtitle {
@@ -1159,6 +1177,17 @@ h6,
 }
 #header3-2m .mbr-section-title,
 #header3-2m .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-37 .mbr-section-title,
+#social-buttons4-37 .btn-social {
+  color: #fff;
+}
+#social-buttons4-37 .mbr-section-title {
+  color: #ffffff;
+}
+#header3-3d .mbr-section-title,
+#header3-3d .mbr-section-subtitle {
   text-align: center;
 }
 
@@ -1295,5 +1324,20 @@ h6,
 }
 #header3-2t .mbr-section-title,
 #header3-2t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3g .mbr-section-title,
+#header3-3g .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-3h .mbr-section-title,
+#social-buttons4-3h .btn-social {
+  color: #fff;
+}
+#social-buttons4-3h .mbr-section-title {
+  color: #ffffff;
+}
+#header3-3i .mbr-section-title,
+#header3-3i .mbr-section-subtitle {
   text-align: center;
 }
