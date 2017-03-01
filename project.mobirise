@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -889,8 +889,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-perspective-project-marked-2000x1714-800x685.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-perspective-project-marked-2000x1714.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabrina-arce-perspective-project-marked-2000x2333-800x933.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sabrina-arce-perspective-project-marked-2000x2333.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
