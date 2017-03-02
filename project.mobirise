@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "Photoshop.html",
+    "currentPage": "Illustrator.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -466,26 +466,6 @@
           "meta": "By Sabrina Arce posted January 2017"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#11737b",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -845,26 +825,6 @@
           },
           "title": "Adobe Photoshop",
           "meta": "By Sabrina Arce posted January 2017"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#11737b",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_inherit": "gallery1",
