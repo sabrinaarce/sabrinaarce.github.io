@@ -486,9 +486,6 @@ h6,
   font-size: 100px;
   font-family: 'Roboto Condensed', sans-serif;
 }
-#content2-p P {
-  color: #000000;
-}
 #header3-36 .mbr-section-title,
 #header3-36 .mbr-section-subtitle {
   text-align: center;
@@ -1165,10 +1162,6 @@ h6,
 #msg-box8-34 .lead P {
   text-align: left;
 }
-#header3-2e .mbr-section-title,
-#header3-2e .mbr-section-subtitle {
-  text-align: center;
-}
 #features7-2l .card-subtitle {
   color: #bcbcbc;
 }
@@ -1179,8 +1172,8 @@ h6,
 #features7-2l P {
   text-align: left;
 }
-#header3-2m .mbr-section-title,
-#header3-2m .mbr-section-subtitle {
+#header3-3m .mbr-section-title,
+#header3-3m .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-37 .mbr-section-title,
