@@ -486,20 +486,11 @@ h6,
   font-size: 100px;
   font-family: 'Roboto Condensed', sans-serif;
 }
-#header3-36 .mbr-section-title,
-#header3-36 .mbr-section-subtitle {
-  text-align: center;
-}
-#social-buttons4-2z .mbr-section-title,
-#social-buttons4-2z .btn-social {
-  color: #fff;
-}
-#social-buttons4-2z .mbr-section-title {
+#contacts3-3p H4 {
   color: #ffffff;
 }
-#header3-32 .mbr-section-title,
-#header3-32 .mbr-section-subtitle {
-  text-align: center;
+#contacts3-3p SPAN {
+  color: #efefef;
 }
 
 #ext_menu-4 .hide-buttons .nav-btn {
