@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "About Me.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -192,6 +192,14 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts3-3p",
           "_params": {
             "paddingTop": 3,
@@ -284,15 +292,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#efefef"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -396,7 +396,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sa-122x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sa-white-122x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -764,7 +764,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sa-122x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sa-white-122x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1238,7 +1238,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sa-122x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sa-white-122x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1578,7 +1578,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sa-122x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sa-white-122x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2311,7 +2311,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sa-122x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sa-white-122x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2910,7 +2910,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sa-122x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sa-white-122x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
