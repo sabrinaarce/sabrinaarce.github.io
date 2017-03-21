@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "photography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3075,8 +3075,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wgvg7502-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wgvg7502-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bryan-one-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bryan-one-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3085,8 +3085,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jyeg2684-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jyeg2684-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/osli-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/osli-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3095,8 +3095,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/qrkf9569-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/qrkf9569-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aida-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aida-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3105,8 +3105,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wlga1137-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wlga1137-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bryan-2nd-one-frame-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bryan-2nd-one-frame-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3115,8 +3115,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/eyrb2067-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/eyrb2067-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/megan-framed-1-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/megan-framed-1-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3125,8 +3125,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wqpr8155-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wqpr8155-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bryan-2-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bryan-2-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3135,8 +3135,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vkyo4181-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vkyo4181-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sofi-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sofi-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3145,8 +3145,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jifk5833-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jifk5833-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sarah-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -3178,8 +3178,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/xauy5285-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/xauy5285-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chocolate-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chocolate-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3188,8 +3188,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sufw7398-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sufw7398-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/drawing-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/drawing-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3198,8 +3198,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kjen9747-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kjen9747-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pesebre-framed-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pesebre-framed-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3208,8 +3208,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/xpwb2395-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/xpwb2395-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coloring-book-2000x2750-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coloring-book-2000x2750.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
