@@ -294,7 +294,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -662,7 +662,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -1248,7 +1248,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -1588,7 +1588,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -1928,7 +1928,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -2820,7 +2820,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -3371,7 +3371,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         },
         {
           "_tags": [
