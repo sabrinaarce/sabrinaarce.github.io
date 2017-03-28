@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Premiere.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1402,7 +1402,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1423,7 +1423,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/i6OaUO-MIJQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
