@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 137,
+    "uniqCompNum": 139,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -190,36 +190,39 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"About Me.html\" data-toolbar=\"-mbrBtnMove\">Introduction/Biography</a> "
         },
         {
-          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-3s",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3u",
           "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/i6OaUO-MIJQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000",
-            "contentAlign": "right",
-            "showTitle": false,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#287b89",
+            "inverse": false,
+            "showButtons": true,
             "showText": true,
-            "showButtons": false
+            "showTitle": true
           },
-          "title": "VIDEO BACKGROUND",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/i6OaUO-MIJQ\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a>",
+          "text": "\"Vision is the art of seeing what is invisible to others.\" &nbsp;– Jonathan Swift",
+          "title": "",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
