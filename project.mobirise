@@ -196,7 +196,7 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-3u",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
