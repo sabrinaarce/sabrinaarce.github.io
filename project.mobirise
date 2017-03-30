@@ -194,6 +194,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-3u",
           "_params": {
             "paddingTop": "1",
@@ -215,14 +220,9 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/i6OaUO-MIJQ\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Fvyf6LKoLTE\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a>",
           "text": "\"Vision is the art of seeing what is invisible to others.\" &nbsp;– Jonathan Swift",
-          "title": "",
-          "_styles": {
-            "H2": {
-              "color": "#ffffff"
-            }
-          }
+          "title": ""
         },
         {
           "_tags": [
