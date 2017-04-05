@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Premiere.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 139,
+    "uniqCompNum": 141,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1424,59 +1424,39 @@
           "meta": "By Sabrina Arce posted January 2017"
         },
         {
-          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
+          "_name": "msg-box1",
           "_styles": {
-            "H3": {
-              "color": "#c1c1c1"
+            "H2": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "msg-box4-3r",
+          "_anchor": "msg-box1-3w",
           "_params": {
-            "imageSize": "70",
             "paddingTop": "3",
             "paddingBottom": "3",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11251.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#287b89",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/i6OaUO-MIJQ",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Rough draft video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Fvyf6LKoLTE\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
+          "text": "Imagine Dragons Competition Video",
+          "title": ""
         },
         {
           "_tags": [
