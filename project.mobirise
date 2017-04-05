@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 141,
+    "uniqCompNum": 142,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1433,13 +1433,48 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "msg-box1-3w",
+          "_anchor": "msg-box1-3x",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x1125-2.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#199aaf",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Fvyf6LKoLTE\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a>",
+          "text": "About Me Video",
+          "title": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-3w",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11253.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
