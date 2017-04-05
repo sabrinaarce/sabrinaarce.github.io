@@ -1474,7 +1474,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11255.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1489,7 +1489,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Fvyf6LKoLTE\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/ZH0aU-UDw-A\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
           "text": "Imagine Dragons Competition Video",
           "title": ""
         },
