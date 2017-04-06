@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sabrina Arce Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Premiere.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1474,7 +1474,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x112512.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11251.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1489,7 +1489,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/ZH0aU-UDw-A\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/Rb-mMa_J0AM\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
           "text": "Imagine Dragons Competition Video",
           "title": ""
         },
