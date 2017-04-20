@@ -1474,7 +1474,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11251.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1524,8 +1524,8 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/9VHt_771UYU\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
-          "text": "A Thousand Million Reasons Version",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/g32a6QRHS24\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
+          "text": "A Thousand Million Reasons Rough Draft",
           "title": ""
         },
         {
