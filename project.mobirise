@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 143,
+    "uniqCompNum": 145,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -1448,7 +1448,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#199aaf",
+            "overlayColor": "#2bcfea",
             "inverse": false,
             "showButtons": true,
             "showText": true,
@@ -1474,7 +1474,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11252.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1483,7 +1483,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#287b89",
+            "overlayColor": "#199aaf",
             "inverse": false,
             "showButtons": true,
             "showText": true,
@@ -1518,7 +1518,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#05282e",
+            "overlayColor": "#0d5e6b",
             "inverse": false,
             "showButtons": true,
             "showText": true,
@@ -1526,6 +1526,76 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/U-Ib2X-d1nQ\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
           "text": "A Thousand Million Reasons Rough Draft",
+          "title": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-40",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x1125-2.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#042328",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://youtu.be/6t0waArUdFw\" data-toolbar=\"-mbrBtnMove\">Watch My Video</a>",
+          "text": "Multi-Media Night Entry",
+          "title": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-3z",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x1125-4.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/playlist?list=PLNeMH0rpXqEAWFUP5A9q3Ul_2S8T1YJo6\" data-toolbar=\"-mbrBtnMove\">Watch My Videos</a>",
+          "text": "Multi-Media Night Videos",
           "title": ""
         },
         {
