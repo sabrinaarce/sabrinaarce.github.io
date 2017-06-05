@@ -1600,7 +1600,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x112514.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x112516.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
