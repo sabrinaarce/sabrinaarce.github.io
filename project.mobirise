@@ -693,7 +693,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/osli3-fixedd-2000x1454-800x581.jpg",
                 "image": "@PROJECT_PATH@/assets/images/osli3-fixedd-2000x1454.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -703,7 +703,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/em1-fixed-2000x1454-800x581.jpg",
                 "image": "@PROJECT_PATH@/assets/images/em1-fixed-2000x1454.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1600,7 +1600,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x11259.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x112511.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
