@@ -666,12 +666,22 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osli-building-fixed-2000x1454-800x581.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osli-building-fixed-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blck-landscape-2000x1454-800x581.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blck-landscape-2000x1454.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/em1-fixed-2000x1454-800x581.jpg",
+                "image": "@PROJECT_PATH@/assets/images/em1-fixed-2000x1454.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -686,24 +696,14 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/osli3-fixedd-2000x1454-800x581.jpg",
-                "image": "@PROJECT_PATH@/assets/images/osli3-fixedd-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blck-landscape-2000x1454-800x581.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blck-landscape-2000x1454.jpg",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/em1-fixed-2000x1454-800x581.jpg",
-                "image": "@PROJECT_PATH@/assets/images/em1-fixed-2000x1454.jpg",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": 1,
@@ -1600,7 +1600,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x112520.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whiter-2000x112522.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
